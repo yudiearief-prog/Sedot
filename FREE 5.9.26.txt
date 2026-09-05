@@ -14,18 +14,7 @@
 
 #EXTM3U
 
-<===========================================================>
-
-#EXTINF:-1 group-title="EVENT 05/SEPTEMBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
-https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
-#EXTINF:-1 group-title="EVENT 06/SEPTEMBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
-https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
-
-<================>
-##EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/30Jk8Al.md.png",002 Cara Menonton
-#https://drive.google.com/uc?export=download&id=14oMEit0QyJY5u5bGXRz9nMeFmcpnPlP-&usp
-<================>
-<=================== EVENT 1 =============================>
+<============================<=================== EVENT 1 =============================>
 
 #EXTINF:-1 group-title="EVENT 05/SEPTEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSIM Yogyakarta vs Persita
 #EXTVLCOPT:http-origin=https://ppdd19.playaindg12.xyz/
